@@ -15,7 +15,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "echo '提交钩子' && lint-staged"
     }
   },
   "lint-staged": {
