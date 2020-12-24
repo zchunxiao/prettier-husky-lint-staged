@@ -1,8 +1,10 @@
-function foo(a, b, c, d) {
+function foo(a, b, c, d, e, f) {
   a();
   b();
   c();
   d();
+  e();
+  f();
 }
 function reallyLongArg() {}
 function omgSoManyParameters() {}
