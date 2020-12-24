@@ -18,3 +18,10 @@ foo(
   IShouldRefactorThis(),
   isThereSeriouslyAnotherOne()
 );
+
+foo(
+  reallyLongArg(),
+  omgSoManyParameters(),
+  IShouldRefactorThis(),
+  isThereSeriouslyAnotherOne()
+);
