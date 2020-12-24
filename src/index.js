@@ -4,6 +4,8 @@ function foo(a, b, c, d) {
   c();
   d();
 }
+
+// 测试用户名
 function reallyLongArg() {}
 function omgSoManyParameters() {}
 function IShouldRefactorThis() {}
