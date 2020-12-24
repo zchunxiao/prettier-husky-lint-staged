@@ -1,0 +1,1 @@
+# prettier-husky-lint-staged
