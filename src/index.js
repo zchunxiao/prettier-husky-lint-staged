@@ -15,5 +15,3 @@ foo(
   IShouldRefactorThis(),
   isThereSeriouslyAnotherOne()
 );
-
-const lint = "eslint";
